@@ -1,0 +1,16 @@
+{
+  "template": "https://github.com/mrsimonemms/new",
+  "commit": "bc84e25af2a34b892d2d99a1a4659cfaeb1f2db4",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "blank",
+      "description": "A blank project for noodling around",
+      "_template": "https://github.com/mrsimonemms/new"
+    }
+  },
+  "directory": null,
+  "skip": [
+    ".git"
+  ]
+}
