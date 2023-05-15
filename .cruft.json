@@ -1,6 +1,6 @@
 {
   "template": "https://github.com/mrsimonemms/new",
-  "commit": "bc84e25af2a34b892d2d99a1a4659cfaeb1f2db4",
+  "commit": "3efdc2d2187bd3d625182ef40d2114277abe1379",
   "checkout": null,
   "context": {
     "cookiecutter": {
